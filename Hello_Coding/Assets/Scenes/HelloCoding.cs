@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HelloCoding : MonoBehaviour{
     void Start(){
-        
 
+        Debug.Log("Hello World!");
     }
 }
